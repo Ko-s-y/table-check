@@ -1,6 +1,6 @@
 # table-check
 
-iPadしか手元にない時のCodespacesで手っ取り早く検証する時用
+iPadしか手元にない時に、CodespacesでColaboの検証を行う時用
 
 ```
 $ pip install flask pyngrok python-dotenv pillow
